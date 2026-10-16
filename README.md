@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 * **Systems & Security:** Linux, Git/GitHub, Wireshark
 * **ML & Data:** PyTorch, NumPy, pandas, scikit-learn
 
-### 🚀 Featured Projects (coming soon)
+### 🚀 Featured Projects (updates in progress)
+- 🔬 Skin Lesion Classifier: [🌐 Web App](https://skin-lesion-classifier-nbfxrpsxnv3yeunftikr2x.streamlit.app/), [💻 Github repository](https://github.com/caul-shivers/skin-lesion-classifier)
