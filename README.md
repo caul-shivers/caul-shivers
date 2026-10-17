@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects (updates in progress)
 - 🔬 Skin Lesion Classifier: [🌐 Web App](https://skin-lesion-classifier-nbfxrpsxnv3yeunftikr2x.streamlit.app/), [💻 Github repository](https://github.com/caul-shivers/skin-lesion-classifier)
+  - ⏳ Note: First load may take a minute. The live demo runs on Streamlit Community Cloud’s free tier, which puts apps to sleep after a period of inactivity. If you see a “Yes, get this app back up!” button, click it, and give the app about 30–60 seconds to wake up. After that it should respond normally.
